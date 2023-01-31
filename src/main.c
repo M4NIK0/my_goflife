@@ -1,11 +1,11 @@
 /*
 ** EPITECH PROJECT, 2023
-** my_goflife
+** my game of life
 ** File description:
 ** main
 */
 
-#include "../include/navy.h"
+#include "../include/my_goflife.h"
 
 int verif_args(int ac, char **av, char **env)
 {
