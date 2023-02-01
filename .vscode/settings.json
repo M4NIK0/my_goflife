@@ -3,5 +3,12 @@
     "files.associations": {
         "my_goflife.h": "c",
         "stdlib.h": "c"
-    }
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/Maniko/Documents/Funcode/GameOfLife",
+            "binaryPath": "/home/Maniko/Documents/Funcode/GameOfLife/my_goflife",
+            "binaryArgs": []
+        }
+    ]
 }

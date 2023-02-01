@@ -14,7 +14,7 @@
     #include <unistd.h>
     #include <stdio.h>
     #include <stdlib.h>
-    #include <signal.h>*
+    #include <signal.h>
 
     #include "my_goflife_h/help.h"
 
