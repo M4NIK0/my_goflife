@@ -1,8 +1,8 @@
 ##
-## EPITECH PROJECT, 2022
+## EPITECH PROJECT, 2023
 ## Makefile
 ## File description:
-## Makefile for libmy
+## Makefile for my_game_of_life
 ##
 
 SRC	=	src/main.c
