@@ -1,11 +1,12 @@
 ##
-## EPITECH PROJECT, 2023
+## EPITECH PROJECT, 2022
 ## Makefile
 ## File description:
-## Makefile for my_game_of_life
+## Makefile my game of life
 ##
 
-SRC	=	src/main.c
+SRC	=	src/main.c															\
+		src/ext_usage/help_disp.c
 
 NAME	=	my_goflife
 

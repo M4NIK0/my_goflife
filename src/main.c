@@ -11,6 +11,10 @@ int verif_args(int ac, char **av, char **env)
 {
     if (env[0] == NULL)
         return 84;
+    if (ac == 2 && av[1][0] == '-' && av[1][1] == 'h' && av[1][2] == '\0') {
+        help_display();
+        return 1;
+    }
     return 0;
 }
 
