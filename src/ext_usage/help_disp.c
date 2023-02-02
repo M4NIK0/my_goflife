@@ -16,5 +16,5 @@ void help_display(void)
     my_printf("-l: Directly load a map.\n");
     my_printf("\t> ./my_goflife -l my_map.gol\n\n");
     my_printf("These flags are meant to be used one at a time,\n");
-    my_printf("if more are found, only the first will be taken in account.\n");
+    my_printf("Only the first flag will be used.\n");
 }

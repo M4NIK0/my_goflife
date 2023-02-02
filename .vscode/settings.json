@@ -1,8 +1,11 @@
 {
-    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
     "files.associations": {
         "my_goflife.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "types.h": "c",
+        "help.h": "c",
+        "signal.h": "c",
+        "debug.h": "c"
     },
     "makefile.launchConfigurations": [
         {

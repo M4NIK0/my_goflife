@@ -6,7 +6,9 @@
 ##
 
 SRC	=	src/main.c															\
-		src/ext_usage/help_disp.c
+		src/ext_usage/help_disp.c											\
+		src/flag_parsing/get_flag.c											\
+		src/flag_parsing/flag_gest.c
 
 NAME	=	my_goflife
 
